@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Open Sans", "Roboto", sans-serif, Arial, Helvetica;
+  box-sizing: border-box;
+}
+/* 
+.category-title,
+.listing-title {
+  font-family: "Roboto";
+} */
